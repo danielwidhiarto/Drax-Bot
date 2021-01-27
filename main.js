@@ -45,11 +45,7 @@ client.on('message', message =>{
         client.commands.get('bangjago').execute(message, args);
     }  else if (command == 'sasageyo'){
         client.commands.get('sasageyo').execute(message, args);
-    }  else if (command === 'mainkan') {
-        client.commands.get('mainkan').execute(message, args);
-    } else if (command === 'pergi') {
-        client.commands.get('pergi').execute(message, args);
     }
 });
 
-    bot.login(process.env.token);
+  bot.login(process.env.token);
