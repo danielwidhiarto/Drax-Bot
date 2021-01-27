@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Discord Bot",
   "main": "main.js",
+    "node":"v14.15.4",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
