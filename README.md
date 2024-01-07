@@ -26,6 +26,10 @@ To get started with DraxBot in your Discord server, follow these simple steps:
 
 If you would like to contribute to the development of DraxBot, please fork the repository and submit a pull request. We welcome your contributions and feedback.
 
+## Support and Issues
+
+If you encounter any issues or have questions about DraxBot, feel free to open an issue on the [GitHub repository](https://github.com/danielwidhiarto/Drax-Bot/issues). We'll do our best to assist you.
+
 ## License
 
 DraxBot is licensed under the [MIT License](LICENSE).
