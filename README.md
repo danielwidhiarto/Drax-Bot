@@ -1,14 +1,14 @@
 # DraxBot
 
-Welcome to DraxBot, a Discord bot tailored for your personal server, packed with unique features and functionality. DraxBot is based on JavaScript and designed with an emphasis on the Indonesian language.
+Welcome to DraxBot, a Discord bot tailored for your server, packed with unique features and functionality. DraxBot is based on JavaScript and designed with an emphasis on the Indonesian language.
 
 ## Features
 
-- Play music: DraxBot allows you to play your favourite tunes directly on your Discord server. Just sit back, relax and enjoy the music!
+- **Play music**: DraxBot allows you to play your favorite tunes directly on your Discord server. Just sit back, relax and enjoy the music!
 
-- Indonesian language support: DraxBot is built with Indonesian language support, providing a seamless experience for users who prefer to communicate in Bahasa Indonesia.
+- **Indonesian language support**: DraxBot is built with Indonesian language support, providing a seamless experience for users who prefer to communicate in Bahasa Indonesia.
 
-- User-friendly interface: DraxBot comes with an intuitive and user-friendly interface, making it easy for both beginners and experienced users to navigate and enjoy its features.
+- **User-friendly interface**: DraxBot comes with an intuitive and user-friendly interface, making it easy for both beginners and experienced users to navigate and enjoy its features.
 
 ## Getting Started
 
@@ -16,9 +16,9 @@ To get started with DraxBot on your Discord server, follow these simple steps:
 
 1. **Clone the repository**: Clone this repository to your local machine using `git clone https://github.com/danielwidhiarto/Drax-Bot.git`.
 
-2. **Install dependencies: Navigate to the project directory and install the necessary dependencies by running `npm install`.
+2. **Install dependencies**: Navigate to the project directory and install the necessary dependencies by running `npm install`.
 
-3. **Configure bot token: Get a bot token from the [Discord Developer Portal](https://discord.com/developers/applications) and configure it in the `config.json` file.
+3. **Configure bot token**: Get a bot token from the [Discord Developer Portal](https://discord.com/developers/applications) and configure it in the `config.json` file.
 
 4. **Run the bot**: Start DraxBot by running `npm start`. DraxBot should now be running on your Discord server.
 
