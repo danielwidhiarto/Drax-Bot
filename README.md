@@ -1,10 +1,14 @@
+# Rating
+
+[![CodeFactor](https://www.codefactor.io/repository/github/danielwidhiarto/drax-bot/badge)](https://www.codefactor.io/repository/github/danielwidhiarto/drax-bot)
+
 # DraxBot
 
 Welcome to DraxBot, a Discord bot tailored for your server, packed with unique features and functionality. DraxBot is based on JavaScript and designed with an emphasis on the Indonesian language.
 
 ## Features
 
-- **Play music**: DraxBot allows you to play your favorite tunes directly on your Discord server. Just sit back, relax and enjoy the music!
+- **Play music**: DraxBot allows you to play your favourite tunes directly on your Discord server. Just sit back, relax and enjoy the music!
 
 - **Indonesian language support**: DraxBot is built with Indonesian language support, providing a seamless experience for users who prefer to communicate in Bahasa Indonesia.
 
